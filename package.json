@@ -1,0 +1,12 @@
+{
+  "name": "com.jarday.sn-custom-font",
+  "version": "1.0",
+  "main": "main.css",
+  "sn": {
+    "main": "main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theprawn/sn-custom-fonts.git"
+  }
+}

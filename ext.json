@@ -1,0 +1,17 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "com.jarday.sn-custom-font",
+  "name": "Apply custom fonts",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "layerable": true,
+  "version": "1.0.0",
+  "description": "Font customization",
+  "url": "https://github.com/theprawn/sn-custom-fonts",
+  "download_url": "https://github.com/theprawn/sn-custom-fonts/archive/1.0.0.zip",
+  "latest_url": "https://github.com/theprawn/sn-custom-fonts/ext.json",
+  "marketing_url": "https://github.com/theprawn/sn-custom-fonts"
+}

@@ -1,0 +1,5 @@
+@import('https://fontlibrary.org//face/fantasque-sans-mono');
+:root {
+  --sn-stylekit-monospace-font: "Fantasque Sans Mono", Cubiculum, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, "Ubuntu Mono", "Courier New", monospace !important;
+/*  --sn-stylekit-sans-serif-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", var(--sn-stylekit-simplified-chinese-font), sans-serif !important;*/
+}
