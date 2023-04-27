@@ -3,3 +3,8 @@
   --sn-stylekit-monospace-font: "Fantasque Sans Mono", Cubiculum, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, "Ubuntu Mono", "Courier New", monospace !important;
 /*  --sn-stylekit-sans-serif-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", var(--sn-stylekit-simplified-chinese-font), sans-serif !important;*/
 }
+
+.CodeMirror-code,#editor,.CodeMirror .CodeMirror-code .cm-comment,.note-editor.note-airframe .note-editing-area .note-codable, .note-editor.note-frame .note-editing-area .note-codable,.CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like {
+  font-family: var(--sn-stylekit-monospace-font) !important;
+}
+
